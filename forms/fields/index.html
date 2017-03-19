@@ -4,14 +4,14 @@
 	<meta charset="utf-8" />
 	<title>Form Validation &amp Processing</title>
 	<link rel="stylesheet" href="normalize.css" />
-	<link rel="stylesheet" href="mystyle.css" />	
+	<link rel="stylesheet" href="mystyle.css" />
 </head>
 <body>
 <form method="get" enctype="multipart/form-data" class="group" action="#">
 	<ol>
 		<li class="group">
 			<label for="namefield">Name</label>
-			<input name="name" id="namefield" />
+			<input name="name" required id="namefield" placeholder="Please enter your name"/>
 		</li>
 	</ol>
 <button type="submit">send</button>
