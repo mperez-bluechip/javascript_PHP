@@ -7,3 +7,4 @@ This is a learning exercise from Lynda.com with Ray Villalobos on the basics of 
 * Constraining min and max values to numeric inputs and dates
 * Using multiple attribute inside form input tags
 * Using MIMI types for choosing files
+* Using list attribute inside an input with datalist tags as options
