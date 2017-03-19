@@ -11,3 +11,5 @@ This is a learning exercise from Lynda.com with Ray Villalobos on the basics of 
 * Using pattern attribute with regular expressions
 * Targeting elements using Javascript
 * Looking up elements using Javasript and changing status
+* Added jQuery library to implement input name focus and blur events
+  with addEventListener handler event
