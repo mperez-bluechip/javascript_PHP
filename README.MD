@@ -9,3 +9,4 @@ This is a learning exercise from Lynda.com with Ray Villalobos on the basics of 
 * Using MIMI types for choosing files
 * Using list attribute inside an input with datalist tags as options
 * Using pattern attribute with regular expressions
+* Targeting elements using Javascript
