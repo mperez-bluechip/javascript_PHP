@@ -8,3 +8,4 @@ This is a learning exercise from Lynda.com with Ray Villalobos on the basics of 
 * Using multiple attribute inside form input tags
 * Using MIMI types for choosing files
 * Using list attribute inside an input with datalist tags as options
+* Using pattern attribute with regular expressions

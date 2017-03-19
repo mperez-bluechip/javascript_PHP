@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>Form Validation &amp Processing</title>
+	<link rel="stylesheet" href="normalize.css" />
+	<link rel="stylesheet" href="mystyle.css" />
+</head>
+<body>
+<form method="get" enctype="multipart/form-data" class="group" action="#">
+	<ol>
+		<li class="group">
+			<label for="patternfield">Pattern Matching</label>
+			<p>accepts upper, lower, numbers, more the one, and spaces</p>
+			<input name="myfield" pattern="[A-Za-z0-9 ]+"/>
+			<p>zip codes or up to 5 numbers</p>
+			<input name="myfield" pattern="[0-9]{5}"/>
+			<p>zip codes shortcut for 5 numbers and extension</p>
+			<input name="myfield" pattern="\d{5}\-\d{4}"/>
+
+		</li>
+	</ol>
+<button type="submit">send</button>
+</form>
+</body>
+</html>
