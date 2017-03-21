@@ -13,3 +13,4 @@ This is a learning exercise from Lynda.com with Ray Villalobos on the basics of 
 * Looking up elements using Javasript and changing status
 * Added jQuery library to implement input name focus and blur events
   with addEventListener handler event
+* Added jsOnChange directory working with onchange events
