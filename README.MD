@@ -16,3 +16,6 @@ This is a learning exercise from Lynda.com with Ray Villalobos on the basics of 
 * Added jsOnChange directory working with onchange events
 * Added selIndex directory working with selectedIndex and selector
   options
+* Added jsValRegx and modified non-working original course code with
+  addEventListener change function method to the input telephone field
+  with regular expression handler and error check
