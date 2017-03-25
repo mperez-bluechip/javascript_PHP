@@ -27,3 +27,5 @@ This is a learning exercise from Lynda.com with Ray Villalobos on the basics of 
 * Added jqInteract folder for form validation to each input field.
   OF ALL VALIDATIONS CODES BEFOREHAND, THIS WORKS THE BEST WITH TRYING TO
   COMPLIMENT HTML5 VALIDATIONS
+* Added jqValPlugin folder and mod to index to add script tag validation
+  plugin in the head of the DOC
