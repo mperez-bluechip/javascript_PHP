@@ -19,3 +19,5 @@ This is a learning exercise from Lynda.com with Ray Villalobos on the basics of 
 * Added jsValRegx and modified non-working original course code with
   addEventListener change function method to the input telephone field
   with regular expression handler and error check
+* Added genInputVal directory targeting all inputs at the same time for
+  validation
