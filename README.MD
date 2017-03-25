@@ -29,3 +29,5 @@ This is a learning exercise from Lynda.com with Ray Villalobos on the basics of 
   COMPLIMENT HTML5 VALIDATIONS
 * Added jqValPlugin folder and mod to index to add script tag validation
   plugin in the head of the DOC
+* Added phpSupGlob folder working with POST GET AND REQUEST superglobals
+  to retrieve and push data
