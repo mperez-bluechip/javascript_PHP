@@ -23,3 +23,4 @@ This is a learning exercise from Lynda.com with Ray Villalobos on the basics of 
   validation
 * Added oldBrows and interruptForm directories
 * Added jqWorking folder to start working with jQuery
+* Added jqOnSubmit folder working with submit button and jQuery
