@@ -31,3 +31,4 @@ This is a learning exercise from Lynda.com with Ray Villalobos on the basics of 
   plugin in the head of the DOC
 * Added phpSupGlob folder working with POST GET AND REQUEST superglobals
   to retrieve and push data
+* Added phpServSide folder to implement server side validations
