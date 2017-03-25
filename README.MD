@@ -24,3 +24,6 @@ This is a learning exercise from Lynda.com with Ray Villalobos on the basics of 
 * Added oldBrows and interruptForm directories
 * Added jqWorking folder to start working with jQuery
 * Added jqOnSubmit folder working with submit button and jQuery
+* Added jqInteract folder for form validation to each input field.
+  OF ALL VALIDATIONS CODES BEFOREHAND, THIS WORKS THE BEST WITH TRYING TO
+  COMPLIMENT HTML5 VALIDATIONS
