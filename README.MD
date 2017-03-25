@@ -22,3 +22,4 @@ This is a learning exercise from Lynda.com with Ray Villalobos on the basics of 
 * Added genInputVal directory targeting all inputs at the same time for
   validation
 * Added oldBrows and interruptForm directories
+* Added jqWorking folder to start working with jQuery
