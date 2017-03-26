@@ -33,3 +33,6 @@ This is a learning exercise from Lynda.com with Ray Villalobos on the basics of 
   to retrieve and push data
 * Added phpServSide folder to implement server side validations
 * Added pageVal directory to implement same page validation in php
+* Added phpMirrorVal directory with PHP code allowing input fields
+  already filled to be retained during submission of errors to other
+  input fields
