@@ -36,3 +36,5 @@ This is a learning exercise from Lynda.com with Ray Villalobos on the basics of 
 * Added phpMirrorVal directory with PHP code allowing input fields
   already filled to be retained during submission of errors to other
   input fields
+* Added sanitize directory allowing sanitization properties htmlspecialchars
+  trim filter_var to clean up input fields
