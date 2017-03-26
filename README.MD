@@ -32,3 +32,4 @@ This is a learning exercise from Lynda.com with Ray Villalobos on the basics of 
 * Added phpSupGlob folder working with POST GET AND REQUEST superglobals
   to retrieve and push data
 * Added phpServSide folder to implement server side validations
+* Added pageVal directory to implement same page validation in php
