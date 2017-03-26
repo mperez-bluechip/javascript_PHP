@@ -39,3 +39,5 @@ This is a learning exercise from Lynda.com with Ray Villalobos on the basics of 
 * Added sanitize directory allowing sanitization properties htmlspecialchars
   trim filter_var to clean up input fields
 * Added mailData directory to include PHPs built in mail function
+* Added phpFileUploaded directory using super global file upload codes and 
+  form enctype multipart/form-data to upload images
