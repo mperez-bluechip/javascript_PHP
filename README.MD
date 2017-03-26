@@ -44,3 +44,6 @@ This is a learning exercise from Lynda.com with Ray Villalobos on the basics of 
 * Added phpAjaxData folder to incorporate AJAX to handle form requests to
   compliment PHP allowing form to be sent if Javascript is turned on or not
   by the client
+* Added phpPushData directory, created new database and table via CLI
+  commands, created log file with login credentials, wrote mysqli queries,
+  secured password with hash sha1 method, and coded insert to database query from user form values
